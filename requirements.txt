@@ -1,0 +1,7 @@
+PySide6
+opencv-python
+numpy
+Pillow
+torch
+open_clip_torch
+pyinstaller
